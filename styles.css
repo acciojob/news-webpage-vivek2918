@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+.header-page{
+	background-color: #011e29;
+	color:white;
+}
+
+.body-page{
+	background-color:#f5f5f5;
+	display:flex;
+	align-item:column;
+	gap:10px;
+	border-redius:5px;
+	
+}
+
+.section1{
+	background-color:white;
+/*     display:flex; */
+	justify-content:center;
+	align-items:;
+	font-size:12px;
+	border-redius:5px;
+	
+}
+
+.section2{
+	background-color:white;
+    font-size:12px;
+	justify-content:center;
+}
+
+.section3{
+	background-color:white;
+}
+
+img{
+	width:200px;
+}
